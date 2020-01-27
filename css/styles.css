@@ -28,7 +28,9 @@ p {
 	margin: auto;
 }
 header {
-	padding: 20px 0;
+	font-family: "Impact", serif;
+        font-size: 36px;
+        padding: 10px 0;
 }
 .top-menu li {
 	display: inline-block;
